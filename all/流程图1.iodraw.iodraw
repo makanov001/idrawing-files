@@ -136,11 +136,11 @@
             <mxPoint x="530" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n6XmhHfRzMUVYCMpdmBx-34" value="更新" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n6XmhHfRzMUVYCMpdmBx-34" value="更新" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="490" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="n6XmhHfRzMUVYCMpdmBx-35" value="更新" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="500" width="50" height="20" as="geometry" />
+          <mxGeometry x="430" y="490" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
