@@ -37,6 +37,9 @@
             <mxPoint x="340" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="n6XmhHfRzMUVYCMpdmBx-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n6XmhHfRzMUVYCMpdmBx-8" target="n6XmhHfRzMUVYCMpdmBx-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n6XmhHfRzMUVYCMpdmBx-8" value="特征点、线提取" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="310" width="120" height="40" as="geometry" />
         </mxCell>
