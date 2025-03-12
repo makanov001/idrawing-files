@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="deKZn9slh58qB7LNIzcX-7" value="进一步判断是否&lt;div&gt;为方柱的特征&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="240" width="150" height="70" as="geometry" />
+          <mxGeometry x="454" y="240" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="deKZn9slh58qB7LNIzcX-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -47,22 +47,22 @@
           <mxGeometry x="330" y="320" width="32" height="20" as="geometry" />
         </mxCell>
         <mxCell id="deKZn9slh58qB7LNIzcX-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;历史方柱特征点&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="485" y="60" width="120" height="40" as="geometry" />
+          <mxGeometry x="469" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="deKZn9slh58qB7LNIzcX-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="deKZn9slh58qB7LNIzcX-14" target="deKZn9slh58qB7LNIzcX-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="342.58" y="200" as="sourcePoint" />
-            <mxPoint x="342.58" y="250" as="targetPoint" />
+            <mxPoint x="326.58" y="200" as="sourcePoint" />
+            <mxPoint x="326.58" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="deKZn9slh58qB7LNIzcX-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="544.5799999999999" y="310" as="sourcePoint" />
-            <mxPoint x="544.5799999999999" y="360" as="targetPoint" />
+            <mxPoint x="528.5799999999999" y="310" as="sourcePoint" />
+            <mxPoint x="528.5799999999999" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="deKZn9slh58qB7LNIzcX-17" value="否" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="320" width="32" height="20" as="geometry" />
+          <mxGeometry x="524" y="320" width="32" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
