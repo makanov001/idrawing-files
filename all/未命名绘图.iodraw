@@ -7,9 +7,6 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;IEPF直线提取&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="273" y="60" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="deKZn9slh58qB7LNIzcX-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="deKZn9slh58qB7LNIzcX-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="判断是否符合&lt;div&gt;方柱的特征&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="258" y="240" width="150" height="70" as="geometry" />
         </mxCell>
@@ -30,6 +27,12 @@
         </mxCell>
         <mxCell id="deKZn9slh58qB7LNIzcX-7" value="进一步判断是否&lt;div&gt;为方柱的特征&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="240" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="deKZn9slh58qB7LNIzcX-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="332.58" y="190" as="sourcePoint" />
+            <mxPoint x="332.58" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
