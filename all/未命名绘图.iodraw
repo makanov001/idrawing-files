@@ -41,7 +41,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="deKZn9slh58qB7LNIzcX-12" value="是" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="260" width="32" height="20" as="geometry" />
+          <mxGeometry x="420" y="257" width="32" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deKZn9slh58qB7LNIzcX-13" value="是" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="320" width="32" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
