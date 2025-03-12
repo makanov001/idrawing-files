@@ -34,9 +34,6 @@
         <mxCell id="deKZn9slh58qB7LNIzcX-7" value="进一步判断是否&lt;div&gt;为方柱的特征&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="240" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="deKZn9slh58qB7LNIzcX-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="320" width="40" height="20" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
