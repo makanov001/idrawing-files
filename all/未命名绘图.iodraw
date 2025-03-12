@@ -19,10 +19,10 @@
         <mxCell id="deKZn9slh58qB7LNIzcX-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;直线特征&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="273" y="150" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="deKZn9slh58qB7LNIzcX-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10">
+        <mxCell id="deKZn9slh58qB7LNIzcX-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="342.58" y="200" as="sourcePoint" />
-            <mxPoint x="470" y="275" as="targetPoint" />
+            <mxPoint x="394" y="275" as="sourcePoint" />
+            <mxPoint x="456" y="275" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="deKZn9slh58qB7LNIzcX-7" value="进一步判断是否&lt;div&gt;为方柱的特征&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
