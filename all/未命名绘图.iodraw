@@ -76,8 +76,11 @@
         <mxCell id="deKZn9slh58qB7LNIzcX-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;噪声&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="652" y="255" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="deKZn9slh58qB7LNIzcX-21" value="&lt;font face=&quot;Times New Roman&quot;&gt;直线特征&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="283" y="160" width="120" height="40" as="geometry" />
+        <mxCell id="deKZn9slh58qB7LNIzcX-21" value="&lt;font face=&quot;Times New Roman&quot;&gt;墙体特征直线&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="273" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="deKZn9slh58qB7LNIzcX-22" value="&lt;font face=&quot;Times New Roman&quot;&gt;墙体特征直线&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="283" y="390" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
