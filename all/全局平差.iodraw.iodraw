@@ -122,7 +122,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hvJZZbpHvZ2rgUzb1OOa-19" value="更新" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="400" width="40" height="30" as="geometry" />
+          <mxGeometry x="358" y="400" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hvJZZbpHvZ2rgUzb1OOa-20" value="更新" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="344" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hvJZZbpHvZ2rgUzb1OOa-21" value="更新" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="378" y="420" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
